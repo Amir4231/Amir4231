@@ -20,6 +20,7 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -28,7 +29,7 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 <summary>Full stack — Frontend / Backend / DevOps</summary>
 
 **Frontend:** TypeScript, React, Next.js, Astro, Tailwind CSS, Vue
-**Backend:** Node.js, Python, Go, PostgreSQL, Redis, GraphQL
+**Backend:** Node.js, PHP, Python, Go, PostgreSQL, Redis, GraphQL
 **DevOps:** AWS, Docker, Kubernetes, Terraform, GitHub Actions, Vercel
 
 </details>
@@ -42,10 +43,6 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 - 🏆 **Proof:** 1st Place / 500 teams — Global AI Hackathon, Speaker @ TechCrunch Disrupt 2023
 - 🛠️ **DX-obsessed:** Linters, CI pipelines, testing with Jest / Vitest / Playwright
 - ⌨️ **Off-hours:** Custom mechanical keyboards & writing about clean code ˚
-
-<!-- GITHUB STATS WIDGETS: 2-column layout, keep theme consistent -->
-
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir4231&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
