@@ -10,9 +10,9 @@ I specialize in **React, TypeScript, and cloud architecture** — building scala
 
 Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my) ⋆
 
----
+· ✦ · ─ ─ ─ · ✦ ·
 
-### Tech Stack
+### Tech Stack ˖
 
 <!-- PLACE SHIELDS.IO BADGES HERE: Keep to 1 row, 6-7 max, style=flat-square -->
 
@@ -41,7 +41,7 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 - ⚡️ **Performance:** Cut p99 latency 1.4s → 340ms on a critical payments API (+300%)
 - 🏆 **Proof:** 1st Place / 500 teams — Global AI Hackathon, Speaker @ TechCrunch Disrupt 2023
 - 🛠️ **DX-obsessed:** Linters, CI pipelines, testing with Jest / Vitest / Playwright
-- ⌨️ **Off-hours:** Custom mechanical keyboards & writing about clean code
+- ⌨️ **Off-hours:** Custom mechanical keyboards & writing about clean code ˚
 
 <!-- GITHUB STATS WIDGETS: 2-column layout, keep theme consistent -->
 
@@ -49,7 +49,7 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 
 ---
 
-### Pinned Highlights
+### Pinned Highlights ˖
 
 Check out my pinned repositories or read my latest tech blog post below 👇
 
