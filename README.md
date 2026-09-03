@@ -46,7 +46,6 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 <!-- GITHUB STATS WIDGETS: 2-column layout, keep theme consistent -->
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir4231&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir4231&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
