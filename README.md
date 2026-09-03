@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=110&section=header)
-
 ## Hi, I'm Amir Asyraf ✦ Senior Full-Stack Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=500&lines=6%2B+years+shipping+production+SaaS;AWS+Certified+Solutions+Architect;React+%2B+TypeScript+%2B+Cloud)](https://git.io/typing-svg)
@@ -83,5 +81,3 @@ More selected work: [ShipMate — Real-Time Logistics Dashboard](https://www.ami
 ---
 
 📫 Reach me: [Website](https://www.amirdevs.my) · [Email](mailto:amirsystemdevs@gmail.com?subject=Let's%20work%20together) · [WhatsApp](https://wa.me/601156799469) · [GitHub](https://github.com/Amir4231)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer)
