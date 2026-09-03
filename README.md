@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=110&section=header)
+
 ## Hi, I'm Amir Asyraf ✦ Senior Full-Stack Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=500&lines=6%2B+years+shipping+production+SaaS;AWS+Certified+Solutions+Architect;React+%2B+TypeScript+%2B+Cloud)](https://git.io/typing-svg)
 
 I specialize in **React, TypeScript, and cloud architecture** — building scalable SaaS products that survive real-world traffic.
 
@@ -41,7 +45,7 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 - 🛠️ **DX-obsessed:** Linters, CI pipelines, testing with Jest / Vitest / Playwright
 - ⌨️ **Off-hours:** Custom mechanical keyboards & writing about clean code
 
-<!-- PLACE GITHUB STATS WIDGETS HERE: 2-column layout, keep theme consistent -->
+<!-- GITHUB STATS WIDGETS: 2-column layout, keep theme consistent -->
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir4231&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir4231&layout=compact&theme=github_dark&hide_border=true)
@@ -68,4 +72,16 @@ More selected work: [ShipMate — Real-Time Logistics Dashboard](https://www.ami
 
 ---
 
+<!-- CONTRIBUTION SNAKE: requires .github/workflows/snake.yml, outputs to `output` branch -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir4231/Amir4231/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amir4231/Amir4231/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amir4231/Amir4231/output/github-snake.svg" />
+</picture>
+
+---
+
 📫 Reach me: [Website](https://www.amirdevs.my) · [Email](mailto:amirsystemdevs@gmail.com?subject=Let's%20work%20together) · [WhatsApp](https://wa.me/601156799469) · [GitHub](https://github.com/Amir4231)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer)
