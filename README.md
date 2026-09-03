@@ -1,4 +1,4 @@
-## Hi, I'm Amir Asyraf ✦ Senior Full-Stack Engineer
+## Hi, I'm Amir Asyraf ✦ Senior Full-Stack Engineer ˖ ˚ ✦
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=500&lines=6%2B+years+shipping+production+SaaS;AWS+Certified+Solutions+Architect;React+%2B+TypeScript+%2B+Cloud)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@ I specialize in **React, TypeScript, and cloud architecture** — building scala
 ⬡ AWS Certified Solutions Architect (SAA-C03)
 ⬡ Obsessed with clean code, performance & developer tooling
 
-Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my)
+Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my) ⋆
 
 ---
 
