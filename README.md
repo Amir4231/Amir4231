@@ -34,6 +34,12 @@ Based in Malaysia · Available for work · [amirdevs.my](https://www.amirdevs.my
 
 </details>
 
+### Certifications ˖
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7d139483-2856-4536-9dd7-d9751024cb5d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[View my verified credential on Credly](https://www.credly.com/badges/7d139483-2856-4536-9dd7-d9751024cb5d/public_url)
+
 ---
 
 ### What I Do
